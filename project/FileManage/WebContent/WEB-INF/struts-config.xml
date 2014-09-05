@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://struts.apache.org/dtds/struts-config_1_3.dtd">
+<struts-config>
+    <form-beans>
+       <form-bean
+            name="userFileForm"
+            type="com.one.longshine.form.UserFileForm"
+            >
+       </form-bean>
+       <form-bean
+            name="searchFileForm"
+            type="com.one.longshine.form.SearchFileForm"
+            >
+       </form-bean>
+       
+	   <form-bean
+            name="loginForm"
+            type="com.one.longshine.form.LoginForm"
+            >
+       </form-bean>
+       
+       <form-bean
+            name="recordForm"
+            type="com.one.longshine.form.ChangeRecordForm"
+            >
+       </form-bean>
+       
+      	 <!-- HJM -->
+    		<form-bean name="financalForm" type="com.one.longshine.form.UserFinancalForm"></form-bean>
+			<form-bean name="contactForm" type="com.one.longshine.form.ContactForm"></form-bean>
+			<form-bean name="addContactForm" type="com.one.longshine.form.AddContactForm"></form-bean>
+			<form-bean name="addFinancalForm" type="com.one.longshine.form.AddFinancalForm"></form-bean>
+    		<!-- HJM -->
+    </form-beans>
+   
+    <global-exceptions>
+    	
+    </global-exceptions>
+
+    <global-forwards>
+        
+    </global-forwards>
+    
+    <action-mappings>
+    	<!-- 业务员登陆模块 -->
+    	<action 
+    		path="/login"
+    		type="com.one.longshine.web.action.LoginAction"
+    		name="loginForm"
+    		parameter="method"
+    		>
+    		<forward name="toLogin" path="/login.jsp"/>
+    		<forward name="toMain" redirect="true" path="/main.html"/>
+    	</action>
+    	
+    	<!-- 用户档案管理模块 -->
+     	<action
+    		path="/userFile"
+            type="com.one.longshine.web.action.UserFileAction"
+            name="userFileForm"
+            parameter="method"
+    		>
+    		<forward name="list" path="/error/404.jsp"/><!--  该页面去掉 -->
+    		<forward name="editUserName" path="/tab/user_name_edit.jsp"/>
+    		<forward name="editUserAddress" path="/tab/user_address_edit.jsp"/>
+    		<forward name="redList" redirect="true" path="/searchFile.do?method=getPagedUserFile"/>
+    		<forward name="addUserFile" path="/tab/user_file_add.jsp"/>
+    	</action>
+    	
+    	<!-- 搜索用户档案模块 -->
+    	<action
+    		path="/searchFile"
+            type="com.one.longshine.web.action.UserFileAction"
+            name="searchFileForm"
+            parameter="method"
+    		>
+    		<forward name="listPage" path="/tab/user_file_page.jsp"/>
+    	</action>
+    	
+    	<!-- 搜索变更记录模块 -->
+    	<action
+    		path="/searchRecord"
+            type="com.one.longshine.web.action.ChangeRecordAction"
+            name="recordForm"
+            parameter="method"
+    		>
+    		<forward name="searchRecord" path="/tab/change_record_search.jsp"/>
+    	</action>
+    	
+    	<!-- 注销 -->
+    	 <action
+    		path="/logoff"
+            type="com.one.longshine.web.action.UserFileAction"
+            name="recordForm"
+            parameter="method"
+    		>
+    		<forward name="addRecord" path="/tab/changerecordadd.jsp"/>
+    	</action>
+    	
+    	<!-- 添加变更记录 -->
+    	 <action
+    		path="/addChangeRecord"
+    		type="com.one.longshine.web.action.ChangeRecordAction"
+            name="recordForm"
+            input="/tab/changerecordadd.jsp"
+            parameter="method"
+            validate="true"
+            scope="session"
+    		>
+    		<forward name="toListPage" redirect="true" path="/searchFile.do?method=getPagedUserFile"/>
+    		<forward name="toTab" redirect="true" path="/userFile.do?method=getAllUserFile"/>
+    	</action>
+    	<!-- HJM -->
+    	
+    	<!-- 获得用户账户 -->
+   	<action path="/listFinancal"
+   	type="com.one.longshine.web.action.ListUserFinancalAction">
+   		<forward name="success" path="/showFinancal.jsp"></forward>
+   		<forward name="error" path="/error.jsp"></forward>
+   	</action>
+   	
+   	<!-- 增加用户账务信息 -->
+   	<action 
+   	path="/addFinancal"
+   	name="addFinancalForm"
+   	type="com.one.longshine.web.action.AddFinancalAction">
+   		<forward name="success"  path="/toListFinancal.jsp"></forward>
+   		<forward name="error"  path="/toListFinancal.jsp"></forward>
+   	</action>
+   	
+   		<!-- 删除用户账务信息 -->
+   	<action 
+   	path="/delFinancal"
+   	type="com.one.longshine.web.action.DelFinancalAction">
+   		<forward name="success"  path="/toListFinancal.jsp"></forward>
+   		<forward name="error"  path="/toListFinancal.jsp"></forward>
+   	</action>
+   	
+   	<!-- 更新用户账户 -->
+   	<action 
+   	path="/userFinancal"
+   	name="financalForm"
+   	parameter="method"
+   	scope="request"
+   	type="com.one.longshine.web.action.UserFinancalAction">
+   		<forward name="updateSuccess"  path="/toListFinancal.jsp"></forward>
+   		<forward name="error" path="/toListFinancal.jsp"></forward>
+   		<forward name="getByBankSuccess" path="/editFinancalBank.jsp"></forward>
+   		<forward name="getByAccountSuccess" path="/editFinancalAccount.jsp"></forward>
+   	</action>
+   
+   <!-- 获得用户所有的联系信息 -->
+   	<action path="/listContact"
+   	type="com.one.longshine.web.action.ListContactAction">
+   		<forward name="success" path="/showContact.jsp"></forward>
+   		<forward name="error" path="/error.jsp"></forward>
+   	</action>
+   <!-- 更新用户联系信息 -->
+   	<action 
+   	path="/contact"
+   	name="contactForm"
+   	parameter="method"
+   	scope="request"
+   	type="com.one.longshine.web.action.UserContactAction">
+   		<forward name="updateSuccess"  path="/toListContact.jsp"></forward>
+   		<forward name="error"  path="/toListContact.jsp"></forward>
+   		<forward name="getByTypeSuccess" path="/editContactType.jsp"></forward>
+   		<forward name="getByDetailSuccess" path="/editContactDetail.jsp"></forward>
+   	</action>
+   	
+   	<!-- 增加用户联系信息 -->
+   	<action 
+   	path="/addContact"
+   	name="addContactForm"
+   	type="com.one.longshine.web.action.AddContactAction">
+   		<forward name="success"  path="/toListContact.jsp"></forward>
+   		<forward name="error"  path="/toListContact.jsp"></forward>
+   	</action>
+   	
+   	<!-- 删除用户联系信息 -->
+   	<action 
+   	path="/delContact"
+   	type="com.one.longshine.web.action.DelContactAction">
+   		<forward name="success"  path="/toListContact.jsp"></forward>
+   		<forward name="error"  path="/toListContact.jsp"></forward>
+   	</action>
+    	<!-- HJM -->	
+    	
+    </action-mappings>
+    
+	<!-- encode to UTF-8-->
+	<controller 
+		processorClass="com.one.longshine.web.controller.CharsetController"
+    	contentType="text/html;charset=UTF-8"
+    	/>
+</struts-config>
+
