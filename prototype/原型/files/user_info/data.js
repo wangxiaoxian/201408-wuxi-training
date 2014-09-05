@@ -1,0 +1,3835 @@
+﻿$axure.loadCurrentPage({
+  "url":"user_info.html",
+  "generationDate":new Date(1407573645217),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f1ffda56d6aa4cfc98a6086faf4736be",
+    "type":"Axure:Page",
+    "name":"user_info",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"宋体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9300c7f03c25464985a9af3f8e654423",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "size":{
+              "width":1180,
+              "height":680}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b37120d7e655467b9d54af7742e7b9a1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "size":{
+                  "width":1180,
+                  "height":680}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u0.png"}},
+{
+          "id":"a45b07e5431f4eaeb1e77bc3aa46edac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "size":{
+              "width":1180,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b52760380b754578987ca2aaf8f4dc49",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "size":{
+                  "width":1180,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u2.png"}},
+{
+          "id":"43f907541ef54bd193ba1abf46b6f0bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":170,
+              "y":100},
+            "size":{
+              "width":1000,
+              "height":500}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62b91951b416454ca737184c1a8be355",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":170,
+                  "y":100},
+                "size":{
+                  "width":1000,
+                  "height":500}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u4.png"}},
+{
+          "id":"dbfa842c26f545f987b66ae6d19ec449",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":180,
+              "y":200},
+            "size":{
+              "width":938,
+              "height":216}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cdbe23260864c04a20c787fa8f82e23",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cb926d390b9c41998e5719a94fe66cdc",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u7.png"}},
+{
+              "id":"d895f93d195242e6b076a6f8109f4072",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":36},
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"91b333acf0fe4d0aabe4a5c02aa1bb92",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":36},
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u7.png"}},
+{
+              "id":"ec46afec7629444c9edcdfaca2758f78",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":72},
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a779f6553fd84d30bb140e2df75873a8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":72},
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u7.png"}},
+{
+              "id":"064362ed1f17406cbb651879ce06e4f7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":0},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"076aa262c4eb4fe0abab293ab42e34b5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":0},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u9.png"}},
+{
+              "id":"a2e556d10fd34139a663a72f0aa83091",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":36},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"86dbb86b7c6749ff9048a5108b99509e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":36},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u9.png"}},
+{
+              "id":"403c7ba8227a4c9da1bcf7ed167a118c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":72},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5730e3676f4746b78ff972671ad28a2d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":72},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u9.png"}},
+{
+              "id":"9517a50b54a5429e8ccc67357208f76c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":0},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2f0b71dd28c642669cd6c4e91fda7274",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":0},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u11.png"}},
+{
+              "id":"b18953216ba443a5963516344ab23ea1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":36},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a35c55c00df1424bb35d9953b46703e9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":36},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u11.png"}},
+{
+              "id":"c1d76ce8ef1f4fa8abbbf95f5075f7f7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":72},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"db303fdcf1d548458b0c9bbe0dc9baba",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":72},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u11.png"}},
+{
+              "id":"f5a9a8843a5a42f38d26ad0e3b3524cd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":108},
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7ef7e4b21e5f4e4981c28198411b43b1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":108},
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u7.png"}},
+{
+              "id":"49b960b44e2040519067e68faf888327",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":108},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"220927a91ab645c0ad0ed50e5a4da62b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":108},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u9.png"}},
+{
+              "id":"ebe16c679a0540309dc953b0fd11657b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":108},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0e974fa93c184d6aa236c42155b0eb35",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":108},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u11.png"}},
+{
+              "id":"c862283983f24d81b9af33ac2fa78c35",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":144},
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"45df38b3678f499aaa483327ed445c26",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":144},
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u7.png"}},
+{
+              "id":"8858320424aa48ebad5e7967108a0659",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":144},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"51cd40b1bb3947369bc8eb8b4ec446ce",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":144},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u9.png"}},
+{
+              "id":"22d514816cf1432c8f94d43c9f06b25e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":144},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8f08c5f5c5f24ce0ae462618cba50d26",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":144},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u11.png"}},
+{
+              "id":"5eadd04b76454d89908c1e8b7e60655f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":180},
+                "size":{
+                  "width":98,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"90760162240a41108ef350836b09fb4f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":180},
+                    "size":{
+                      "width":98,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u87.png"}},
+{
+              "id":"a414350eaa32475bae1bfc2644f8bcde",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":98,
+                  "y":180},
+                "size":{
+                  "width":95,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a50cec9fd63d44f892a4614c8a698321",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":98,
+                      "y":180},
+                    "size":{
+                      "width":95,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u89.png"}},
+{
+              "id":"fef9ff1ceccf4cfbad24600b1892d841",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":193,
+                  "y":180},
+                "size":{
+                  "width":93,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f160f6a1b6c04be4b48a50b8a4d48079",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":193,
+                      "y":180},
+                    "size":{
+                      "width":93,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u91.png"}},
+{
+              "id":"21c947870d574a1589d2c97fd4fb3fc5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":0},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"39cb601efa1b4758a9cb031a878504d5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":0},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u13.png"}},
+{
+              "id":"2b0ec943ed6b466a971e98ae3b03b2b8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":36},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"675ddf3b2fea4dd6a36667946ff9f5b5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":36},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u13.png"}},
+{
+              "id":"68bfef1ea7b1486d9a024d9743a3ba2e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":72},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c0932c0c767c48a2879eb897ee856aec",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":72},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u13.png"}},
+{
+              "id":"08968e67397d4697b8ce453d885f9d77",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":108},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7410aa8a24214a7187fbe34f502d29b6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":108},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u13.png"}},
+{
+              "id":"768a7ea659854d30ac875575225792c2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":144},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"81497f3c270a49a9ab4126fc20b45396",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":144},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u13.png"}},
+{
+              "id":"620fd71cde06413398bf121fa41eceb9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":286,
+                  "y":180},
+                "size":{
+                  "width":217,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"61e71db5c30b44ba8e64a1b5f71c85b3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":286,
+                      "y":180},
+                    "size":{
+                      "width":217,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u93.png"}},
+{
+              "id":"e657d43c568741dca0fd8f235c218cf7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":0},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3d1d635458c64abd91c84b49ccfcd86e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":0},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u15.png"}},
+{
+              "id":"ec40ac66c4a74ae0b52e16b7852d1840",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":36},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e11a728b07df42a881d9235f427dbe19",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":36},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u15.png"}},
+{
+              "id":"2142fd5ee3f14b9880a29e57e809cb9a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":72},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e42cd1a70b0c4556917304cf9543054a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":72},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u15.png"}},
+{
+              "id":"b24b791db8c748cdba0df9991eb42705",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":108},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7dc20db7edbb4ada97552ccdfe65af68",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":108},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u15.png"}},
+{
+              "id":"1dece010586243bd9f7e5f222882bcbc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":144},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2c999c314b9043ada4627700273d24ed",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":144},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u15.png"}},
+{
+              "id":"c012a057d08c4ecaab24a758417e26d7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":503,
+                  "y":180},
+                "size":{
+                  "width":85,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d573580eac2412fb7e1a487e2e0a719",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":503,
+                      "y":180},
+                    "size":{
+                      "width":85,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u95.png"}},
+{
+              "id":"2aa9c93db6b2438ab0ca9f33e8c50c69",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":0},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"de68773aea524c2ca21be85931769a7a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":0},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u17.png"}},
+{
+              "id":"6c1b7e85e7f94d45b9ed8de0cf708c8d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":36},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0aedd16af9514710a6b286698a9e5fc4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":36},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u17.png"}},
+{
+              "id":"825c1f8b9920461fb4bbeefedd6b8f32",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":72},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"599636fef28344a98ffebdc756eac93a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":72},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u17.png"}},
+{
+              "id":"27cc3d033bfd47ed8ab478b5e7057279",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":108},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0070e55c216f4bb3b3aecf3c5461551b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":108},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u17.png"}},
+{
+              "id":"c4835d6820b14b29886fab9a8c7864c1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":144},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f23e2fde164e4a2696b3bbe4f3ce7acf",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":144},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u17.png"}},
+{
+              "id":"2c9a65210d7445c4a52a6bfbe3c22e27",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":588,
+                  "y":180},
+                "size":{
+                  "width":92,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3a76732cad5c4b999498e00824f369f4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":588,
+                      "y":180},
+                    "size":{
+                      "width":92,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u97.png"}},
+{
+              "id":"c40c662e965649cdb2d268bde16d7ada",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":0},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"dee47cb3f7844ec9b8092d4e5b9735f4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":0},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u21.png"}},
+{
+              "id":"6cde07162aff45ceb1321deb590ed2b3",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":36},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9c7a422ffeb94a96ac88e4d8c60741a3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":36},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u21.png"}},
+{
+              "id":"fde2d6d189c64c85add5679f050a1406",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":72},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"588dda6537ef40d0a41cf73f42fbd0e7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":72},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u21.png"}},
+{
+              "id":"779be0c0ddc444a5babce83b80666dc4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":108},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"34d3139afe634bb2ae1ea2d9667fef90",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":108},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u21.png"}},
+{
+              "id":"3eeeb5adb1b446c498387bb4ce3f5867",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":144},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"013548d00d07414ca8f29a83dfa07082",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":144},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u21.png"}},
+{
+              "id":"2576f9f71a7446b091cd14d88f760b76",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":866,
+                  "y":180},
+                "size":{
+                  "width":72,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c70dfb33252c431396cbbfda1877437e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":866,
+                      "y":180},
+                    "size":{
+                      "width":72,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u101.png"}},
+{
+              "id":"8c1c00215b474e0dbc89bae8fe36123d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":0},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2d4bc11d0a9b4f95979745426aec4edd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":0},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u19.png"}},
+{
+              "id":"2ee5c581ae1741e0b5e513bf70e5ef81",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":36},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e56435614e2c4c418817bfa34e268a3c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":36},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u19.png"}},
+{
+              "id":"ef455ad93db74adfb63d7de08d04085e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":72},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e2957a8683404c51ba70b3c7d7619c6c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":72},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u19.png"}},
+{
+              "id":"dcc8c6f593ed4a0f94039174e4c57eb5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":108},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1882a429fc4b45559b1a8d633da64456",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":108},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u19.png"}},
+{
+              "id":"726fdb666beb4f55850158298ac42298",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":144},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"098723e976c3406b96585f3e888d0607",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":144},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u19.png"}},
+{
+              "id":"95b9a9427f03433c939b611df8bd6fdc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":680,
+                  "y":180},
+                "size":{
+                  "width":186,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6f1449314b6b4f4c8c0ac9d9c4139d4f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'宋体 Regular', '宋体'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":680,
+                      "y":180},
+                    "size":{
+                      "width":186,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/user_info/u99.png"}}]},
+{
+          "id":"ebf0fb1f281b40f6a8659be93c128c17",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":180,
+              "y":120},
+            "size":{
+              "width":290,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"10e14dc9b36d4432b529506191ad005c",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":480,
+              "y":120},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 user_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"user_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ac01205a22fd4e5db9624dc27095964a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1050,
+              "y":60},
+            "size":{
+              "width":110,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"275cb51c16d249d3a128fd0e9653f7ef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1050,
+                  "y":60},
+                "size":{
+                  "width":110,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7c7bce9849e44e889a6fb0bd294c69b7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":0,
+              "y":100},
+            "size":{
+              "width":160,
+              "height":500}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"871e5695db204e6a83b3706469b08d68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":0,
+                  "y":100},
+                "size":{
+                  "width":160,
+                  "height":500}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u107.png"}},
+{
+          "id":"e8b9e5ec58b740639d10565ebd20feeb",
+          "label":"",
+          "type":"listBox",
+          "styleType":"listBox",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":0,
+              "y":100},
+            "size":{
+              "width":160,
+              "height":80}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"9dd43804d684438aacedef0da3d86993",
+          "label":"",
+          "type":"listBox",
+          "styleType":"listBox",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":0,
+              "y":180},
+            "size":{
+              "width":160,
+              "height":40}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"48dec29ca43a42e8940a4abdcc36f843",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":220,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbb5043f83664f9aad0d8d15e3d1175e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":220,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u111.png"}},
+{
+          "id":"a69a8e9f7ffb4b2e8e7ce187ba0bad76",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h3",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1081,
+              "y":168},
+            "size":{
+              "width":37,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3f3f4f60ff744d4398432d568737b19c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1081,
+                  "y":168},
+                "size":{
+                  "width":37,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 链接",
+                      "target":{
+                        "targetType":"page",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"62379a1d07c945c7bcccdf396ae4a23b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":0,
+              "y":610},
+            "size":{
+              "width":1170,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7839f92f32274b3cbd6bcbb48a8b25f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":0,
+                  "y":610},
+                "size":{
+                  "width":1170,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/user_info/u115.png"}},
+{
+          "id":"c292305872264c4aa85ba2cc82d2aceb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h3",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":489.5,
+              "y":634},
+            "size":{
+              "width":201,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ae0900096faa466fa9ba58f1d9f304d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":489.5,
+                  "y":634},
+                "size":{
+                  "width":201,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"32eaaca74e9c4b1cb10fb6dd28eab39a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":180,
+              "y":426},
+            "size":{
+              "width":220,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbf083d2b0764d49bc25c381e52c8139",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":180,
+                  "y":426},
+                "size":{
+                  "width":220,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"34e08622f3eb406f933f31fd847c5220",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":837,
+              "y":426},
+            "size":{
+              "width":187,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00ad2decf49c4184a9dbd57f07601c15",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":837,
+                  "y":426},
+                "size":{
+                  "width":187,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"35793b30656a4b279ea66c30f4f7fd72",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1024,
+              "y":426},
+            "size":{
+              "width":30,
+              "height":16}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5d9c635633b841e7aa4c3c019bd86b38",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1064,
+              "y":426},
+            "size":{
+              "width":14,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e8fefc29f88347fd9c3f8fe41bc23d59",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1064,
+                  "y":426},
+                "size":{
+                  "width":14,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2be4988783514c9f82eaa3746773f3c8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1088,
+              "y":426},
+            "size":{
+              "width":30,
+              "height":16}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"de73f4492cb1477bb21a7d6627883ab9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1069,
+              "y":284},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d1fb1681e95e4dcd9715ee6d23cba0fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1069,
+                  "y":284},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e32d347e04504d8e954a6d821ed6c5c4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1069,
+              "y":320},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3fa0d489ea7442fb1552185dae0a67d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1069,
+                  "y":320},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"234497f89ac44e77ad23fa40d7a7d27a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1069,
+              "y":354},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe63795f5455402f8c0b55caadf97b19",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1069,
+                  "y":354},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"efa9c32c1d894e74b9268724289ecf66",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1069,
+              "y":390},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec303dbab9ae40b786270cb574d1268a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1069,
+                  "y":390},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f081b096ca2840bab0427387a127fb89",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":890,
+              "y":244},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc234d04c9ff44f196133eb1063e6ca4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":890,
+                  "y":244},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"725e5c8228534cd68416a254c8e6f1b0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":953,
+              "y":244},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"656fe7962047410c9880083e61742413",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":953,
+                  "y":244},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 contact_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"contact_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0d3b23530777405ea1b90841f3f40036",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":890,
+              "y":284},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bcf8a459e57f4a02b4b1398479147866",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":890,
+                  "y":284},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"153caafdff354f3da071f09c0b5e4f3a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":953,
+              "y":284},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7e3962a31c0a44f89f68a9903f14e0c3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":953,
+                  "y":284},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 contact_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"contact_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e49af16729244526b28f4624775f7f8d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":890,
+              "y":320},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7a368f8a1c6843e0bb827402a1a53092",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":890,
+                  "y":320},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ce8cfa4020c140559ba3ffdeae2ea74a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":953,
+              "y":320},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5de25cd2026b4125be744da8cc2d2c13",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":953,
+                  "y":320},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 contact_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"contact_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b9f5bca125b941f1b9df101a7d2740b4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":890,
+              "y":354},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e8eef52d431446d8d1221b796df1dcc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":890,
+                  "y":354},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a9050e36439f4c07ad37df1b19f8e449",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":953,
+              "y":354},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1c2998c2a8234dc0901f60c32e70c4f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":953,
+                  "y":354},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 contact_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"contact_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"23385a9f91f74e34b814ad57c878024f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":890,
+              "y":390},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3548341bd9b64cab9489f631c0fcd00c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":890,
+                  "y":390},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8899d0186b25403bb5cbe8658c7da3ea",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":953,
+              "y":390},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fdcc4e3da8e74d97a29116360a4dd027",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":953,
+                  "y":390},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 contact_info",
+                      "target":{
+                        "targetType":"page",
+                        "url":"contact_info.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"21c1b8264dab401592b32da192a0fc4a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":312,
+              "y":244},
+            "size":{
+              "width":25,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9617145179c54335b72160b026866eae",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":312,
+                  "y":244},
+                "size":{
+                  "width":25,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 account_number_edit",
+                      "target":{
+                        "targetType":"page",
+                        "url":"account_number_edit.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"352c25ff5721496893e392f49bd49c13",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 Regular', '宋体'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":518,
+              "y":244},
+            "size":{
+              "width":118,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e3a704ef8f04efc86de480f59149983",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 Regular', '宋体'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":518,
+                  "y":244},
+                "size":{
+                  "width":118,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 user_address_edit",
+                      "target":{
+                        "targetType":"page",
+                        "url":"user_address_edit.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9300c7f03c25464985a9af3f8e654423":{
+      "scriptId":"u0"},
+    "b37120d7e655467b9d54af7742e7b9a1":{
+      "scriptId":"u1"},
+    "a45b07e5431f4eaeb1e77bc3aa46edac":{
+      "scriptId":"u2"},
+    "b52760380b754578987ca2aaf8f4dc49":{
+      "scriptId":"u3"},
+    "43f907541ef54bd193ba1abf46b6f0bc":{
+      "scriptId":"u4"},
+    "62b91951b416454ca737184c1a8be355":{
+      "scriptId":"u5"},
+    "dbfa842c26f545f987b66ae6d19ec449":{
+      "scriptId":"u6"},
+    "6cdbe23260864c04a20c787fa8f82e23":{
+      "scriptId":"u7"},
+    "cb926d390b9c41998e5719a94fe66cdc":{
+      "scriptId":"u8"},
+    "064362ed1f17406cbb651879ce06e4f7":{
+      "scriptId":"u9"},
+    "076aa262c4eb4fe0abab293ab42e34b5":{
+      "scriptId":"u10"},
+    "9517a50b54a5429e8ccc67357208f76c":{
+      "scriptId":"u11"},
+    "2f0b71dd28c642669cd6c4e91fda7274":{
+      "scriptId":"u12"},
+    "21c947870d574a1589d2c97fd4fb3fc5":{
+      "scriptId":"u13"},
+    "39cb601efa1b4758a9cb031a878504d5":{
+      "scriptId":"u14"},
+    "e657d43c568741dca0fd8f235c218cf7":{
+      "scriptId":"u15"},
+    "3d1d635458c64abd91c84b49ccfcd86e":{
+      "scriptId":"u16"},
+    "2aa9c93db6b2438ab0ca9f33e8c50c69":{
+      "scriptId":"u17"},
+    "de68773aea524c2ca21be85931769a7a":{
+      "scriptId":"u18"},
+    "8c1c00215b474e0dbc89bae8fe36123d":{
+      "scriptId":"u19"},
+    "2d4bc11d0a9b4f95979745426aec4edd":{
+      "scriptId":"u20"},
+    "c40c662e965649cdb2d268bde16d7ada":{
+      "scriptId":"u21"},
+    "dee47cb3f7844ec9b8092d4e5b9735f4":{
+      "scriptId":"u22"},
+    "d895f93d195242e6b076a6f8109f4072":{
+      "scriptId":"u23"},
+    "91b333acf0fe4d0aabe4a5c02aa1bb92":{
+      "scriptId":"u24"},
+    "a2e556d10fd34139a663a72f0aa83091":{
+      "scriptId":"u25"},
+    "86dbb86b7c6749ff9048a5108b99509e":{
+      "scriptId":"u26"},
+    "b18953216ba443a5963516344ab23ea1":{
+      "scriptId":"u27"},
+    "a35c55c00df1424bb35d9953b46703e9":{
+      "scriptId":"u28"},
+    "2b0ec943ed6b466a971e98ae3b03b2b8":{
+      "scriptId":"u29"},
+    "675ddf3b2fea4dd6a36667946ff9f5b5":{
+      "scriptId":"u30"},
+    "ec40ac66c4a74ae0b52e16b7852d1840":{
+      "scriptId":"u31"},
+    "e11a728b07df42a881d9235f427dbe19":{
+      "scriptId":"u32"},
+    "6c1b7e85e7f94d45b9ed8de0cf708c8d":{
+      "scriptId":"u33"},
+    "0aedd16af9514710a6b286698a9e5fc4":{
+      "scriptId":"u34"},
+    "2ee5c581ae1741e0b5e513bf70e5ef81":{
+      "scriptId":"u35"},
+    "e56435614e2c4c418817bfa34e268a3c":{
+      "scriptId":"u36"},
+    "6cde07162aff45ceb1321deb590ed2b3":{
+      "scriptId":"u37"},
+    "9c7a422ffeb94a96ac88e4d8c60741a3":{
+      "scriptId":"u38"},
+    "ec46afec7629444c9edcdfaca2758f78":{
+      "scriptId":"u39"},
+    "a779f6553fd84d30bb140e2df75873a8":{
+      "scriptId":"u40"},
+    "403c7ba8227a4c9da1bcf7ed167a118c":{
+      "scriptId":"u41"},
+    "5730e3676f4746b78ff972671ad28a2d":{
+      "scriptId":"u42"},
+    "c1d76ce8ef1f4fa8abbbf95f5075f7f7":{
+      "scriptId":"u43"},
+    "db303fdcf1d548458b0c9bbe0dc9baba":{
+      "scriptId":"u44"},
+    "68bfef1ea7b1486d9a024d9743a3ba2e":{
+      "scriptId":"u45"},
+    "c0932c0c767c48a2879eb897ee856aec":{
+      "scriptId":"u46"},
+    "2142fd5ee3f14b9880a29e57e809cb9a":{
+      "scriptId":"u47"},
+    "e42cd1a70b0c4556917304cf9543054a":{
+      "scriptId":"u48"},
+    "825c1f8b9920461fb4bbeefedd6b8f32":{
+      "scriptId":"u49"},
+    "599636fef28344a98ffebdc756eac93a":{
+      "scriptId":"u50"},
+    "ef455ad93db74adfb63d7de08d04085e":{
+      "scriptId":"u51"},
+    "e2957a8683404c51ba70b3c7d7619c6c":{
+      "scriptId":"u52"},
+    "fde2d6d189c64c85add5679f050a1406":{
+      "scriptId":"u53"},
+    "588dda6537ef40d0a41cf73f42fbd0e7":{
+      "scriptId":"u54"},
+    "f5a9a8843a5a42f38d26ad0e3b3524cd":{
+      "scriptId":"u55"},
+    "7ef7e4b21e5f4e4981c28198411b43b1":{
+      "scriptId":"u56"},
+    "49b960b44e2040519067e68faf888327":{
+      "scriptId":"u57"},
+    "220927a91ab645c0ad0ed50e5a4da62b":{
+      "scriptId":"u58"},
+    "ebe16c679a0540309dc953b0fd11657b":{
+      "scriptId":"u59"},
+    "0e974fa93c184d6aa236c42155b0eb35":{
+      "scriptId":"u60"},
+    "08968e67397d4697b8ce453d885f9d77":{
+      "scriptId":"u61"},
+    "7410aa8a24214a7187fbe34f502d29b6":{
+      "scriptId":"u62"},
+    "b24b791db8c748cdba0df9991eb42705":{
+      "scriptId":"u63"},
+    "7dc20db7edbb4ada97552ccdfe65af68":{
+      "scriptId":"u64"},
+    "27cc3d033bfd47ed8ab478b5e7057279":{
+      "scriptId":"u65"},
+    "0070e55c216f4bb3b3aecf3c5461551b":{
+      "scriptId":"u66"},
+    "dcc8c6f593ed4a0f94039174e4c57eb5":{
+      "scriptId":"u67"},
+    "1882a429fc4b45559b1a8d633da64456":{
+      "scriptId":"u68"},
+    "779be0c0ddc444a5babce83b80666dc4":{
+      "scriptId":"u69"},
+    "34d3139afe634bb2ae1ea2d9667fef90":{
+      "scriptId":"u70"},
+    "c862283983f24d81b9af33ac2fa78c35":{
+      "scriptId":"u71"},
+    "45df38b3678f499aaa483327ed445c26":{
+      "scriptId":"u72"},
+    "8858320424aa48ebad5e7967108a0659":{
+      "scriptId":"u73"},
+    "51cd40b1bb3947369bc8eb8b4ec446ce":{
+      "scriptId":"u74"},
+    "22d514816cf1432c8f94d43c9f06b25e":{
+      "scriptId":"u75"},
+    "8f08c5f5c5f24ce0ae462618cba50d26":{
+      "scriptId":"u76"},
+    "768a7ea659854d30ac875575225792c2":{
+      "scriptId":"u77"},
+    "81497f3c270a49a9ab4126fc20b45396":{
+      "scriptId":"u78"},
+    "1dece010586243bd9f7e5f222882bcbc":{
+      "scriptId":"u79"},
+    "2c999c314b9043ada4627700273d24ed":{
+      "scriptId":"u80"},
+    "c4835d6820b14b29886fab9a8c7864c1":{
+      "scriptId":"u81"},
+    "f23e2fde164e4a2696b3bbe4f3ce7acf":{
+      "scriptId":"u82"},
+    "726fdb666beb4f55850158298ac42298":{
+      "scriptId":"u83"},
+    "098723e976c3406b96585f3e888d0607":{
+      "scriptId":"u84"},
+    "3eeeb5adb1b446c498387bb4ce3f5867":{
+      "scriptId":"u85"},
+    "013548d00d07414ca8f29a83dfa07082":{
+      "scriptId":"u86"},
+    "5eadd04b76454d89908c1e8b7e60655f":{
+      "scriptId":"u87"},
+    "90760162240a41108ef350836b09fb4f":{
+      "scriptId":"u88"},
+    "a414350eaa32475bae1bfc2644f8bcde":{
+      "scriptId":"u89"},
+    "a50cec9fd63d44f892a4614c8a698321":{
+      "scriptId":"u90"},
+    "fef9ff1ceccf4cfbad24600b1892d841":{
+      "scriptId":"u91"},
+    "f160f6a1b6c04be4b48a50b8a4d48079":{
+      "scriptId":"u92"},
+    "620fd71cde06413398bf121fa41eceb9":{
+      "scriptId":"u93"},
+    "61e71db5c30b44ba8e64a1b5f71c85b3":{
+      "scriptId":"u94"},
+    "c012a057d08c4ecaab24a758417e26d7":{
+      "scriptId":"u95"},
+    "6d573580eac2412fb7e1a487e2e0a719":{
+      "scriptId":"u96"},
+    "2c9a65210d7445c4a52a6bfbe3c22e27":{
+      "scriptId":"u97"},
+    "3a76732cad5c4b999498e00824f369f4":{
+      "scriptId":"u98"},
+    "95b9a9427f03433c939b611df8bd6fdc":{
+      "scriptId":"u99"},
+    "6f1449314b6b4f4c8c0ac9d9c4139d4f":{
+      "scriptId":"u100"},
+    "2576f9f71a7446b091cd14d88f760b76":{
+      "scriptId":"u101"},
+    "c70dfb33252c431396cbbfda1877437e":{
+      "scriptId":"u102"},
+    "ebf0fb1f281b40f6a8659be93c128c17":{
+      "scriptId":"u103"},
+    "10e14dc9b36d4432b529506191ad005c":{
+      "scriptId":"u104"},
+    "ac01205a22fd4e5db9624dc27095964a":{
+      "scriptId":"u105"},
+    "275cb51c16d249d3a128fd0e9653f7ef":{
+      "scriptId":"u106"},
+    "7c7bce9849e44e889a6fb0bd294c69b7":{
+      "scriptId":"u107"},
+    "871e5695db204e6a83b3706469b08d68":{
+      "scriptId":"u108"},
+    "e8b9e5ec58b740639d10565ebd20feeb":{
+      "scriptId":"u109"},
+    "9dd43804d684438aacedef0da3d86993":{
+      "scriptId":"u110"},
+    "48dec29ca43a42e8940a4abdcc36f843":{
+      "scriptId":"u111"},
+    "cbb5043f83664f9aad0d8d15e3d1175e":{
+      "scriptId":"u112"},
+    "a69a8e9f7ffb4b2e8e7ce187ba0bad76":{
+      "scriptId":"u113"},
+    "3f3f4f60ff744d4398432d568737b19c":{
+      "scriptId":"u114"},
+    "62379a1d07c945c7bcccdf396ae4a23b":{
+      "scriptId":"u115"},
+    "7839f92f32274b3cbd6bcbb48a8b25f5":{
+      "scriptId":"u116"},
+    "c292305872264c4aa85ba2cc82d2aceb":{
+      "scriptId":"u117"},
+    "ae0900096faa466fa9ba58f1d9f304d9":{
+      "scriptId":"u118"},
+    "32eaaca74e9c4b1cb10fb6dd28eab39a":{
+      "scriptId":"u119"},
+    "dbf083d2b0764d49bc25c381e52c8139":{
+      "scriptId":"u120"},
+    "34e08622f3eb406f933f31fd847c5220":{
+      "scriptId":"u121"},
+    "00ad2decf49c4184a9dbd57f07601c15":{
+      "scriptId":"u122"},
+    "35793b30656a4b279ea66c30f4f7fd72":{
+      "scriptId":"u123"},
+    "5d9c635633b841e7aa4c3c019bd86b38":{
+      "scriptId":"u124"},
+    "e8fefc29f88347fd9c3f8fe41bc23d59":{
+      "scriptId":"u125"},
+    "2be4988783514c9f82eaa3746773f3c8":{
+      "scriptId":"u126"},
+    "de73f4492cb1477bb21a7d6627883ab9":{
+      "scriptId":"u127"},
+    "d1fb1681e95e4dcd9715ee6d23cba0fc":{
+      "scriptId":"u128"},
+    "e32d347e04504d8e954a6d821ed6c5c4":{
+      "scriptId":"u129"},
+    "a3fa0d489ea7442fb1552185dae0a67d":{
+      "scriptId":"u130"},
+    "234497f89ac44e77ad23fa40d7a7d27a":{
+      "scriptId":"u131"},
+    "fe63795f5455402f8c0b55caadf97b19":{
+      "scriptId":"u132"},
+    "efa9c32c1d894e74b9268724289ecf66":{
+      "scriptId":"u133"},
+    "ec303dbab9ae40b786270cb574d1268a":{
+      "scriptId":"u134"},
+    "f081b096ca2840bab0427387a127fb89":{
+      "scriptId":"u135"},
+    "fc234d04c9ff44f196133eb1063e6ca4":{
+      "scriptId":"u136"},
+    "725e5c8228534cd68416a254c8e6f1b0":{
+      "scriptId":"u137"},
+    "656fe7962047410c9880083e61742413":{
+      "scriptId":"u138"},
+    "0d3b23530777405ea1b90841f3f40036":{
+      "scriptId":"u139"},
+    "bcf8a459e57f4a02b4b1398479147866":{
+      "scriptId":"u140"},
+    "153caafdff354f3da071f09c0b5e4f3a":{
+      "scriptId":"u141"},
+    "7e3962a31c0a44f89f68a9903f14e0c3":{
+      "scriptId":"u142"},
+    "e49af16729244526b28f4624775f7f8d":{
+      "scriptId":"u143"},
+    "7a368f8a1c6843e0bb827402a1a53092":{
+      "scriptId":"u144"},
+    "ce8cfa4020c140559ba3ffdeae2ea74a":{
+      "scriptId":"u145"},
+    "5de25cd2026b4125be744da8cc2d2c13":{
+      "scriptId":"u146"},
+    "b9f5bca125b941f1b9df101a7d2740b4":{
+      "scriptId":"u147"},
+    "5e8eef52d431446d8d1221b796df1dcc":{
+      "scriptId":"u148"},
+    "a9050e36439f4c07ad37df1b19f8e449":{
+      "scriptId":"u149"},
+    "1c2998c2a8234dc0901f60c32e70c4f9":{
+      "scriptId":"u150"},
+    "23385a9f91f74e34b814ad57c878024f":{
+      "scriptId":"u151"},
+    "3548341bd9b64cab9489f631c0fcd00c":{
+      "scriptId":"u152"},
+    "8899d0186b25403bb5cbe8658c7da3ea":{
+      "scriptId":"u153"},
+    "fdcc4e3da8e74d97a29116360a4dd027":{
+      "scriptId":"u154"},
+    "21c1b8264dab401592b32da192a0fc4a":{
+      "scriptId":"u155"},
+    "9617145179c54335b72160b026866eae":{
+      "scriptId":"u156"},
+    "352c25ff5721496893e392f49bd49c13":{
+      "scriptId":"u157"},
+    "9e3a704ef8f04efc86de480f59149983":{
+      "scriptId":"u158"}}});
